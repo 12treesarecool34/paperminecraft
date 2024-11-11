@@ -1,1 +1,1 @@
-# paperminecraft
+# Paper Minecraft
